@@ -170,4 +170,10 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
->>>>>>> b706b30 (Initial commit)
+ HEAD
+ b706b30 (Initial commit)
+
+
+#MacOS
+.DS_Store
+03491b0 (added .DS_Store to gitignore)
