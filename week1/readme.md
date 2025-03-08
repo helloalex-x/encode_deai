@@ -1,10 +1,11 @@
 ## Weekend Project
+*Homework of kvutien (KsHRM4) week 1*
 
 To consolidate the knowledge acquired this week, students should complete the following project:
 
-1. Create a new GitHub repository for your project.
-2. Invite all members of your group to collaborate on the repository.
-3. Write a simple README.md file explaining your project
+1. Create a new GitHub repository for your project. **DONE**
+2. Invite all members of your group to collaborate on the repository. **DONE, made my own branch**
+3. Write a simple README.md file explaining your project. **DONE**
 4. Modify and expand the `Chef GPT script` by incorporating a unique personality for your AI chef
    - Tweak the system prompt to include a unique personality for your AI chef
    - Example personalities:
