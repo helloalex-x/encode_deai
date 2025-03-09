@@ -6,12 +6,12 @@ To consolidate the knowledge acquired this week, students should complete the fo
 1. Create a new GitHub repository for your project. **DONE**
 2. Invite all members of your group to collaborate on the repository. **DONE, made my own branch**
 3. Write a simple README.md file explaining your project. **DONE**
-4. Modify and expand the `Chef GPT script` by incorporating a unique personality for your AI chef
+4. Modify and expand the `Chef GPT script` (https://github.com/Encode-Club-AI-Bootcamp/DeAI/blob/main/Lesson-04/exercises/07-Chef-GPT.md) by incorporating a unique personality for your AI chef
    - Tweak the system prompt to include a unique personality for your AI chef
    - Example personalities:
-     - A young, enthusiastic Indian chef specializing in Biryani
-     - A seasoned Italian chef with a passion for pasta-making
-     - An old Brazilian grandma who loves to cook classic dishes
+     - A young, enthusiastic Indian chef specializing in Biryani. **DONE**
+     - A seasoned Italian chef with a passion for pasta-making. **DONE**
+     - An old Brazilian grandma who loves to cook classic dishes. **DONE**
 5. Develop individual scripts for each group member, each featuring a distinct AI chef personality
 6. Program the AI to respond to three specific types of user inputs:
    a. Ingredient-based dish suggestions
