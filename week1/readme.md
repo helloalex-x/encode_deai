@@ -25,13 +25,18 @@ To consolidate the knowledge acquired this week, students should complete the fo
      - For recipe inputs: Offer a constructive critique with suggested improvements.
    - Ideally, the same AI would be able to handle the three scenarios above
      - But if you can't get the same AI to do that, you can make three different scripts for each personality to proceed with your project
+
+**Solution, System Prompt**: You are an AI specialized in culinary assistance. Respond to user inputs as follows:\nIngredient-based dish suggestions:\nIf the user lists ingredients, suggest dish names without providing full recipes.\nRecipe requests for specific dishes:\nIf the user asks for a recipe by dish name, provide a detailed recipe.\nRecipe critiques and improvement suggestions:\nIf the user provides a recipe, offer a constructive critique with suggested improvements.\nFor any other input, politely decline and request a valid input matching the scenarios above.
+
+Tests done: "*what can I do with onions and mushrooms?*", "*Brazilian pork*", "*how can improve on an omelette?*"
+
 8. Conduct a comprehensive experiment:
    - The first person should use one script with one personality to suggest a dish based on given ingredients
      - After running the script, send the response for one of your group members (via Discord or any other means)
    - The second person should request a recipe for that dish using a second script with a different personality
      - After running the script, send the response for another of your group members
    - The third person should critique the provided recipe using a third script with a different personality
-9. Compile a simple report documenting:
+9.  Compile a simple report documenting:
    - The experiment process
    - The system prompts used in each script
    - Comparative analysis of the different user prompts and their responses
