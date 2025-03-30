@@ -9,6 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
+ HEAD
     "@langchain/community": "^0.3.38",
     "@langchain/core": "^0.3.43",
     "@langchain/openai": "^0.5.2",
@@ -26,5 +27,18 @@
     "@types/react-dom": "^19",
     "tailwindcss": "^4.0.17",
     "typescript": "^5"
+
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "next": "15.2.4"
+  },
+  "devDependencies": {
+    "typescript": "^5",
+    "@types/node": "^20",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "@tailwindcss/postcss": "^4",
+    "tailwindcss": "^4"
+ fb273c4 (Initial commit from Create Next App)
   }
 }
